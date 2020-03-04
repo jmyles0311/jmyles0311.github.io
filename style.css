@@ -1,5 +1,5 @@
 body {
-    background-color: powderblue;
+    background-color: lightblue;
 }
 
 h1 {
@@ -10,8 +10,25 @@ h1 {
 #description {
     font-family: "Arial", Helvetica, sans-serif;
     color: white;
+    text-align: center;
 }
 
 p {
     color: green;
+}
+
+li {
+    color: orange;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+th {
+    background-color: orange;
+}
+
+td {
+    color: orange;
 }
